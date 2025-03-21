@@ -1,5 +1,3 @@
-import { max } from "drizzle-orm";
-import { unique } from "drizzle-orm/mysql-core";
 import mongoose from "mongoose";
 
 const couponSchema = new mongoose.Schema(
